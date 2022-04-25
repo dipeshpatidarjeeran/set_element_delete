@@ -1,0 +1,10 @@
+s={5,3,2,6,8,9}
+print("set is:-",s)
+s.discard(8)
+print("set is:-",s)
+s.discard(4)
+print("set is:-",s)
+s.remove(3)
+print("set is:-",s)
+s.remove(4)
+print("set is:-",s)
